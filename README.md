@@ -1,7 +1,12 @@
-# mock-e-commerce-website
-Using yarn to create react app based on React Js
-# Deploying the mock website to a domain and deploying Google Tag Manager to Google Analytics and using Google Tag Assistant to collect data from the website after creating tags, variables and triggers
-https://analytics.google.com/analytics/web/?authuser=0#/realtime/rt-event/a245347009w337752860p278007773/
-https://tagmanager.google.com/?authuser=0#/container/accounts/6059689605/containers/95082651/workspaces/6/variables
+# React JS Mock E-commerce Website
+Using npm packager manager to create react app based on React Js framework.
+Using HTML, CSS and JavaScript to create/build the e-commerce website.
+
+# Website Hosting and Deployment
+Deploying the mock website to a domain to get an accessible url for easy access and for Analytics.
+
+# Analytics
+ Creation of tags, variables and triggers.
+Linking Google Tag Manager to Google Analytics and  adding the Google Tag Manager script to the head and body of the 'index.html' file to link the website to Google Tag Manager and subsequently linking GTM to Google Analytics 4 (GA4). On the dashboard of GA4, website users activity is noticed and recorded which implies that the GTM Assistant is working and GTM and GA4 is successfully linked to the website.
 # Website name
-https://js-store.ml/
+https://js-store.ml
