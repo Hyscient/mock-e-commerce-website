@@ -14,3 +14,4 @@ Linking Google Tag Manager to Google Analytics and  adding the Google Tag Manage
 
 # Website name
 https://js-store.ml
+This web app is responsive to tablets as well
