@@ -1,6 +1,4 @@
-# React JS Mock E-commerce Website
-Using npm packager manager to create react app based on React Js framework.
-npm install create-react-app e-commerce
+# Mock E-commerce Website
 Using HTML, CSS and JavaScript to create/build the e-commerce website.
 
 # Website Hosting and Deployment
